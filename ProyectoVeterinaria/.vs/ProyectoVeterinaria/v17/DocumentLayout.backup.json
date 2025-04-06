@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeffr\\OneDrive\\Escritorio\\BD2\\ProyectoVeterinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8643B8E-1341-44F0-9B38-2B5AD0CCC942}|ProyectoVeterinaria\\ProyectoVeterinaria.csproj|c:\\users\\jeffr\\onedrive\\escritorio\\bd2\\proyectoveterinaria\\proyectoveterinaria\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8643B8E-1341-44F0-9B38-2B5AD0CCC942}|ProyectoVeterinaria\\ProyectoVeterinaria.csproj|solutionrelative:proyectoveterinaria\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8643B8E-1341-44F0-9B38-2B5AD0CCC942}|ProyectoVeterinaria\\ProyectoVeterinaria.csproj|C:\\Users\\jeffr\\OneDrive\\Escritorio\\BD2\\ProyectoVeterinaria\\proyectoveterinaria\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8643B8E-1341-44F0-9B38-2B5AD0CCC942}|ProyectoVeterinaria\\ProyectoVeterinaria.csproj|solutionrelative:proyectoveterinaria\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\jeffr\\OneDrive\\Escritorio\\BD2\\ProyectoVeterinaria\\ProyectoVeterinaria\\Control.cs",
+              "RelativeDocumentMoniker": "ProyectoVeterinaria\\Control.cs",
+              "ToolTip": "C:\\Users\\jeffr\\OneDrive\\Escritorio\\BD2\\ProyectoVeterinaria\\ProyectoVeterinaria\\Control.cs",
+              "RelativeToolTip": "ProyectoVeterinaria\\Control.cs",
+              "ViewState": "AgIAAHIFAAAAAAAAAAAUwIoFAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:04:58.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Control.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jeffr\\OneDrive\\Escritorio\\BD2\\ProyectoVeterinaria\\ProyectoVeterinaria\\Control.cs",
+              "RelativeDocumentMoniker": "ProyectoVeterinaria\\Control.cs",
+              "ToolTip": "C:\\Users\\jeffr\\OneDrive\\Escritorio\\BD2\\ProyectoVeterinaria\\ProyectoVeterinaria\\Control.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoVeterinaria\\Control.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:40:27.441Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
